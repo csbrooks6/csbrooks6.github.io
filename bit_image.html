@@ -1,0 +1,67 @@
+<form name="form1" onsubmit="return false;">
+	Image width and height are 128 (scaled up 4x).<br />
+	For each pixel, if (x+y) has the given bit set, pixel is on. <br />
+	Bit: <input type="text" name="bit" value="1">
+	<input type="submit" value="+" onclick="onClick(1);">	
+	<input type="submit" value="-" onclick="onClick(2);">	
+	<input type="submit" value="Submit" onclick="onClick(0);">
+</form>
+
+<canvas id="myCanvas" width=512 height=512 style="border:16px solid #000000;"></canvas>
+
+<script type="text/javascript">
+
+function onClick(mode)
+{
+	var bit = parseInt(document.forms["form1"]["bit"].value);
+
+	if (mode == 1)
+	{
+		++bit;
+	}
+	else if (mode == 2)
+	{
+		--bit;
+	}
+
+	if (bit < 0)
+		bit = 0;
+	if (bit > 10)
+		bit = 10;
+
+	document.forms["form1"]["bit"].value = "" + bit;
+	draw(bit);
+
+	return false;
+}
+
+function draw(bit)
+{
+	var canvas=document.getElementById('myCanvas');
+
+	var ctx=canvas.getContext('2d');
+	ctx.fillStyle='#FFFFFF';
+	ctx.fillRect( 0, 0, canvas.width, canvas.height );
+
+	ctx.fillStyle='#FF0000';
+
+	var x, y;
+	var scale = 4;
+
+	for (y = 0; y < (canvas.height/scale); ++y)
+	{
+
+		for (x = 0; x < (canvas.width/scale); ++x)
+		{
+			if ( ((x+y)&(1<<bit)) != 0 )
+			{
+				ctx.fillRect( x*scale, y*scale, scale, scale );			
+			}
+		}
+	}
+}
+
+draw(7);
+
+</script>
+
