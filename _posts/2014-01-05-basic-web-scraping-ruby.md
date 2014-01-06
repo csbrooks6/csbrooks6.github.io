@@ -152,13 +152,13 @@ Ok, now we're to going to put it together, to iterate over all the rows in the t
       result_page.search("//table[@class='resultList']//tr").each do |row|
         # Name
         name_node = row.at(".//td[2]/a[@class='opacityit']")
-        if not name_node then 
+        unless name_node 
           next
         end
 
         # Price
         price_node = row.at(".//td[8]/span[@class='productListPrice']")
-        if not price_node then
+        unless price_node
           next
         end
 
@@ -170,7 +170,7 @@ Note that `.` at the start of the `at` queries we're doing on each row. If we le
 Ok, so now we're getting the name and price of cards on the first page in a category. We need to be able to click the "Next" link on each page to get *all* the results:
 
       next_page_link = result_page.at "//a[text()='Next']"
-      if next_page_link then      
+      if next_page_link
         result_page = Mechanize::Page::Link.new( next_page_link, mechanize, result_page ).click
       end
 
@@ -200,13 +200,13 @@ Alright, let's put it all together. This will iterate over all the categories, d
 	      result_page.search("//table[@class='resultList']//tr").each do |row|
 	        # Name
 	        name_node = row.at(".//td[2]/a[@class='opacityit']")
-	        if not name_node then 
+	        unless name_node
 	          next
 	        end
 
 	        # Price
 	        price_node = row.at(".//td[8]/span[@class='productListPrice']")
-	        if not price_node then
+	        unless price_node
 	          next
 	        end
 
@@ -214,7 +214,7 @@ Alright, let's put it all together. This will iterate over all the categories, d
 	      end
 
 	      next_page_link = result_page.at "//a[text()='Next']"
-	      if next_page_link then      
+	      if next_page_link
 	        result_page = Mechanize::Page::Link.new( next_page_link, mechanize, result_page ).click
 	      else
 	        result_page = nil
