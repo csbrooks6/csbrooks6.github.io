@@ -9,6 +9,10 @@ tagline: index
 
 My name's Christopher Brooks, and I'm a software developer. I tought myself how to program when I was in fifth grade, on our TI/99-4a. Ever since then, I've had a passion for programming. I'm a fast-learner, and a self-reliant problem solver. I enjoy working on a small tight-knit team, on projects that matter to people.
 
+Much of my career I've worked in games, which tends to be C++ and a scripting language like lua, and maybe python for tools. But I've also worked on significant web development, including an ecommerce engine in 1996, and for a web consultancy that did work for toyota.com and orbitz.com during the first internet bubble.
+
+I prefer working in a unix environment, and I've been using Ruby on Rails for side projects for a while.
+
 ## Resume: [http://chris.brooks6.com/resume.html]({{ BASE_PATH }}/resume.html)
 
 ## LinkedIn: [http://www.linkedin.com/in/csbrooks](http://www.linkedin.com/in/csbrooks)
