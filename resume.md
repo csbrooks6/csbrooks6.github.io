@@ -88,6 +88,14 @@ Extensive experience as a professional programmer, including various leadership 
 + Wrote Python script to layout files on DVD ISO to minimize seek times, and corresponding IOP code in C on game side
 
 
+##SIDE PROJECTS
+
+## [Hexagog](http://hexagog.com) World of Warcraft Trading Card Game Pricelist -- 2009 to present
+
++ Identified a need for a simple, centralized list of card prices
++ Created web scraping code to gather price data from several different online stores
++ Initially created in Python, but re-implemented in Ruby on Rails to improve design, and as a learning experience
+
 ##EDUCATION
 
 + Arizona State University, Tempe Arizona; Major in Computer Science at College of Engineering and Applied Sciences; GPA 3.8
