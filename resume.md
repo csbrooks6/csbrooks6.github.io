@@ -95,6 +95,14 @@ Extensive experience as a professional programmer, including various leadership 
 + Identified a need for a simple, centralized list of card prices
 + Created web scraping code to gather price data from several different online stores
 + Initially created in Python, but re-implemented in Ruby on Rails to improve design, and as a learning experience
++ 15,000+ unique visitors since its creation
+
+## gcdb.org Game Company Database -- 2005 to 2008 (now offline)
+
++ Created a website using PHP showing US game companies, along with geographical information about their location
++ Interfaced with a third-party geocoder API to convert company location information into latitude/longitude data
++ Used the google maps javascript API to display company locations on a google maps interface
++ Received several thousand unique visitors from Kotaku shortly after going online
 
 ##EDUCATION
 
