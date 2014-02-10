@@ -15,6 +15,8 @@ I prefer working in a unix environment, and I've been using Ruby on Rails for si
 
 ## Resume: [http://chris.brooks6.com/resume.html]({{ BASE_PATH }}/resume.html)
 
+## Github: [https://github.com/csbrooks6](https://github.com/csbrooks6)
+
 ## LinkedIn: [http://www.linkedin.com/in/csbrooks](http://www.linkedin.com/in/csbrooks)
 
 ## Posts

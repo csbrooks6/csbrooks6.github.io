@@ -90,6 +90,13 @@ Extensive experience as a professional programmer, including various leadership 
 
 ##SIDE PROJECTS
 
+## [u8this](http://u8this.com) Online Food Diary -- 2014 to present
+
++ Created from scratch to solidify Rails knowledge
++ Code available on [github](https://github.com/csbrooks6/u8this)
++ Used Bootstrap library to implement a responsive, mobile-friendly design
++ Used Capistrano to implement deployment to a staging and production site
+
 ## [Hexagog](http://hexagog.com) World of Warcraft Trading Card Game Pricelist -- 2009 to present
 
 + Identified a need for a simple, centralized list of card prices
