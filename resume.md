@@ -18,7 +18,7 @@ Extensive experience as a professional programmer, including various leadership 
 ##SKILLS
 
 + Perforce, git, Subversion
-+ C, C++, Ruby, Python, Javascript, lua, perl, Java, yacc/lex, SQL
++ C, C++, Ruby, Ruby on Rails, Python, Javascript, lua, perl, Java, yacc/lex, SQL
 + HTML, CSS
 + OSX, Windows, Linux
 + Unix system administration
@@ -95,6 +95,7 @@ Extensive experience as a professional programmer, including various leadership 
 + Created from scratch to solidify Rails knowledge
 + Code available on [github](https://github.com/csbrooks6/u8this)
 + Used Bootstrap library to implement a responsive, mobile-friendly design
++ Used AJAX and Javascript for adding and editing data without reloading the page
 + Used Capistrano to implement deployment to a staging and production site
 
 ## [Hexagog](http://hexagog.com) World of Warcraft Trading Card Game Pricelist -- 2009 to present
