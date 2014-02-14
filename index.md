@@ -19,6 +19,8 @@ I prefer working in a unix environment, and I've been using Ruby on Rails for si
 
 ## LinkedIn: [http://www.linkedin.com/in/csbrooks](http://www.linkedin.com/in/csbrooks)
 
+## Twitter: [@csbrooks6](https://twitter.com/csbrooks6)
+
 ## Posts
 
 <ul class="posts">
