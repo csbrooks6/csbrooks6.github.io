@@ -33,7 +33,7 @@ Extensive experience as a professional programmer, including various leadership 
 
 + Ruby on Rails development building [Enable Impact](http://www.enableimpact.com), a marketplace to match social entrepreneurs with impact investors
 + Created system to edit and search profiles for entrepreneurs and funders, based on a number of different data facets
-+ Sole backend developer, plus some in-depth JavaScript / CoffeeScript work
++ Sole backend developer, plus significant JavaScript / CoffeeScript, including using jQuery and AJAX
 
 ## Certain Affinity, Austin, TX --- 1/2013 to 2/2014
 
@@ -68,6 +68,7 @@ Extensive experience as a professional programmer, including various leadership 
 ## Ghostfire Games, Austin TX --- 1/2008 to 7/2009	
 
 *Lead Programmer*
+
 + Very rapidly got up-to-speed on Wii programming environment
 + Leading a small team, developed a game for the Wii from scratch in six months
 + Ported an open-source music visualizer from Linux OpenGL to Wii graphics API
@@ -86,6 +87,7 @@ Extensive experience as a professional programmer, including various leadership 
 ## Petroglyph Games, Las Vegas, NV --- 11/2005 to 12/2006
 
 *Game Programmer*
+
 + Came on as Empire at War was wrapping up; got rapidly up-to-speed and helped finding and fixing bugs
 + Created 3d navigation interface of Earth for the game Universe at War
 + Developed gameplay code for units in realtime strategy game
@@ -95,6 +97,7 @@ Extensive experience as a professional programmer, including various leadership 
 ## Budcat Creations, Las Vegas, NV --- 3/2004 to 11/2005
 
 *Senior Software Engineer*
+
 + Working on Madden 05 and 06, developed and updated 3d graphics shader code in assembly and HLSL
 + On Psychonauts PS2, learned VU code in short timeframe and used it to develop 3d graphics code
 + Wrote Python script to layout files on DVD ISO to minimize seek times, and corresponding IOP code in C on game side
