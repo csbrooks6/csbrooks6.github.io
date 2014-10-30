@@ -18,7 +18,7 @@ Extensive experience as a professional programmer, including various leadership 
 ##SKILLS
 
 + Perforce, git, Subversion
-+ C, C++, Ruby, Ruby on Rails, Python, Javascript, lua, perl, Java, yacc/lex, SQL
++ C, C++, Ruby, Ruby on Rails, Python, JavaScript, CoffeeScript, lua, perl, Java, yacc/lex, SQL
 + HTML, CSS
 + OSX, Windows, Linux
 + Unix system administration
@@ -27,7 +27,14 @@ Extensive experience as a professional programmer, including various leadership 
 
 ## EXPERIENCE
 
-## Certain Affinity, Austin, TX --- 1/2013 to present
+## Independent Software Developer, Austin , TX -- 2/2014 to present
+
+*Senior Programmer*
++ Ruby on Rails development building [Enable Impact](http://www.enableimpact.com), a marketplace to match social entrepreneurs with impact investors
++ Created system to edit and search profiles for entrepreneurs and funders, based on a number of different data facets
++ Sole backend developer, plus some in-depth JavaScript / CoffeeScript work
+
+## Certain Affinity, Austin, TX --- 1/2013 to 2/2014
 
 *Senior Programmer*
 + Worked on gameplay code for two major AAA co-development projects

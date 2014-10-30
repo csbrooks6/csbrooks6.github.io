@@ -9,9 +9,9 @@ tagline: index
 
 My name's Christopher Brooks, and I'm a software developer. I tought myself how to program when I was in fifth grade, on our TI/99-4a. Ever since then, I've had a passion for programming. I'm a fast-learner, and a self-reliant problem solver. I enjoy working on a small tight-knit team, on projects that matter to people.
 
-Much of my career I've worked in games, usually with C++ and scripting languages such as lua and python. But I've also worked on significant web development, including designing and implementing an ecommerce engine. While at a web consultancy, I did work on toyota.com and on a prototype for orbitz.com.
+Much of my career I've worked in games, usually with C++ and scripting languages such as lua and python. I've also worked on significant full-stack web development projects, including designing and implementing an ecommerce engine. While at a web consultancy, I did work on toyota.com and on a prototype for orbitz.com.
 
-I prefer working in a unix environment, and I've been using Ruby on Rails for side projects for a while.
+I'm currently working full-time on ["Enable Impact"](http://www.enableimpact.com): I'm the sole backend Ruby on Rails developer, and I'm also responsible for significant front-end JavaScript/CoffeeScript work, including using JQuery and AJAX.
 
 ## Resume: [http://chris.brooks6.com/resume.html]({{ BASE_PATH }}/resume.html)
 
