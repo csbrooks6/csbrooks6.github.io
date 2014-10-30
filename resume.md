@@ -30,6 +30,7 @@ Extensive experience as a professional programmer, including various leadership 
 ## Independent Software Developer, Austin , TX -- 2/2014 to present
 
 *Senior Programmer*
+
 + Ruby on Rails development building [Enable Impact](http://www.enableimpact.com), a marketplace to match social entrepreneurs with impact investors
 + Created system to edit and search profiles for entrepreneurs and funders, based on a number of different data facets
 + Sole backend developer, plus some in-depth JavaScript / CoffeeScript work
@@ -37,6 +38,7 @@ Extensive experience as a professional programmer, including various leadership 
 ## Certain Affinity, Austin, TX --- 1/2013 to 2/2014
 
 *Senior Programmer*
+
 + Worked on gameplay code for two major AAA co-development projects
 + Implemented complex player respawn system for first-person shooter,
   to help ensure a fun play experience
@@ -48,6 +50,7 @@ Extensive experience as a professional programmer, including various leadership 
 ## Vigil Games/THQ, Austin, TX --- 7/2009 to 1/2013
 
 *Senior Generalist Programmer*
+
 + Worked on gameplay system code for world team for title codenamed "Crawler"
 + Created a sophisticated random world generator, enforcing a complex set of data-driven
   constraints for connections between world tiles
@@ -55,6 +58,7 @@ Extensive experience as a professional programmer, including various leadership 
   through editor and engine enhancements
 
 *Lead Client Programmer, Dark Millenium Online*
+
 + Lead team of 10+ programmers on major MMO project
 + Helped grow programming team, integrating new members and helping them get up-to-speed
 + Took responsibility for driving game stability, performance and memory usage
@@ -73,6 +77,7 @@ Extensive experience as a professional programmer, including various leadership 
 ## Midway Games, Austin TX --- 12/2006 to 1/2008
 
 *Senior Software Engineer*
+
 + As part of the Core Technology Group, worked on shared engine code used by all Midway game teams
 + Developed code on Playstation 3 and XBox 360 systems
 + Worked with Unreal 3 engine
