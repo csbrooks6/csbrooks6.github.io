@@ -27,13 +27,15 @@ Extensive experience as a professional programmer, including various leadership 
 
 ## EXPERIENCE
 
-## Independent Software Developer, Austin , TX -- 2/2014 to present
+## Enable Impact, Austin, TX -- 2/2014 to present
 
-*Senior Programmer*
+*Senior Programmer (Contractor)*
 
-+ Ruby on Rails development building [Enable Impact](http://www.enableimpact.com), a marketplace to match social entrepreneurs with impact investors
-+ Created system to edit and search profiles for entrepreneurs and funders, based on a number of different data facets
++ Ruby on Rails development building [Enable Impact](http://www.enableimpact.com), a marketplace to match social entrepreneurs with impact investors, from the ground up
 + Sole backend developer, plus significant JavaScript / CoffeeScript, including using jQuery and AJAX
++ Created system to edit, search and match profiles for entrepreneurs and funders, based on a number of different data points
++ Designed and implemented scalable cloud-based architecture, using Heroku and CloudFront
++ Implemented file upload front end using jQuery File Upload plugin, including direct upload to S3 and offline image processing
 
 ## Certain Affinity, Austin, TX --- 1/2013 to 2/2014
 
