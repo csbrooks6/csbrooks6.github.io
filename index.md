@@ -7,7 +7,7 @@ tagline: index
 
 <img class="inset right" src="{{site.url}}/assets/images/chris128.jpg">
 
-My name's Christopher Brooks, and I'm a software developer. I tought myself how to program when I was in fifth grade, on our TI/99-4a. Ever since then, I've had a passion for programming. I'm a fast-learner, and a self-reliant problem solver. I enjoy working on a small tight-knit team, on projects that matter to people.
+My name's Christopher Brooks, and I'm a software developer. I tought myself how to program when I was a kid, on my TI/99-4a. Ever since then, I've had a passion for programming. I'm a fast-learner, and a self-reliant problem solver. I enjoy working on a small tight-knit team, on projects that matter to people.
 
 Much of my career I've worked in games, usually with C++ and scripting languages such as lua and python. I've also worked on significant full-stack web development projects, including designing and implementing an ecommerce engine. While at a web consultancy, I did work on toyota.com and on a prototype for orbitz.com.
 
