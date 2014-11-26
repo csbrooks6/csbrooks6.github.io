@@ -73,6 +73,7 @@ look like a property access, for example. Maybe not so great when you're doing:
 	  my_object.do_something :now, 3, 'hello'
 
 And just confusing if you're doing nested calls:
+
 	  puts sum 1,2  # Gross!
 
 ## {} - Block or Hash?
