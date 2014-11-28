@@ -14,6 +14,7 @@ You can find the site here: [u8this.com](http://u8this.com) Feel free to make an
 The code is here: [github.com/csbrooks6/u8this](https://github.com/csbrooks6/u8this)
 
 I've tried to use all the latest tools in building it:
+
 - Rails 4.0
 - RSpec
 - Developing on osx, using Sublime Text 3
@@ -31,6 +32,7 @@ The idea, in my mind anyway, isn't revolutionary. At least in terms of getting u
 *[Photo by epSos.de](https://www.flickr.com/photos/epsos/)*
 
 There's upsides to this idea, though: 
+
 - Solidify my Rails knowledge
 - Use some different things I haven't used before, like RSpec
 - It's something I personally want to use, so I can make it work exactly the way I like
