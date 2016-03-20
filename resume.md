@@ -5,17 +5,17 @@ description: ""
 ---
 {% include JB/setup %}
 
-##CONTACT INFO
+## CONTACT INFO
 
 _Email:_ chris@brooks6.com
 
-##OBJECTIVE
+## OBJECTIVE
 Active software development role in fast-paced, fun environment, with plenty of opportunity for learning and growth.
 
-##SUMMARY
+## SUMMARY
 Extensive experience as a professional programmer, including various leadership roles. Adaptable, fast learner, experience with teams and projects small and large.
 
-##SKILLS
+## SKILLS
 
 + Perforce, git, Subversion
 + C, C++, Ruby, Ruby on Rails, Python, JavaScript, CoffeeScript, lua, perl, Java, yacc/lex, SQL
@@ -105,7 +105,7 @@ Extensive experience as a professional programmer, including various leadership 
 + Wrote Python script to layout files on DVD ISO to minimize seek times, and corresponding IOP code in C on game side
 
 
-##SIDE PROJECTS
+## SIDE PROJECTS
 
 ## [u8this](http://u8this.com) Online Food Diary -- 2014 to present
 
@@ -129,7 +129,7 @@ Extensive experience as a professional programmer, including various leadership 
 + Used the google maps javascript API to display company locations on a google maps interface
 + Received several thousand unique visitors from Kotaku shortly after going online
 
-##EDUCATION
+## EDUCATION
 
 + Arizona State University, Tempe Arizona; Major in Computer Science at College of Engineering and Applied Sciences; GPA 3.8
 + University of Louisville, Louisville Kentucky; Majored in Engineering Mathematics and Computer Science at Speed Engineering School; GPA 3.8
